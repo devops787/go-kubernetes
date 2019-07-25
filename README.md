@@ -1,5 +1,5 @@
 # go-kubernetes
-Basic Go application with Gorialla/mux, Docker and Kubernetes.
+Basic Go application with Gorilla/mux, Docker and Kubernetes.
 
 ## Installation
 1. Install Docker (https://docs.docker.com/install/linux/docker-ce/ubuntu).
