@@ -4,7 +4,7 @@ Basic Go application with Gorilla/mux, Docker and Kubernetes.
 ## Installation
 1. Install Docker (https://docs.docker.com/install/linux/docker-ce/ubuntu).
 2. Install Kubectl and Minikube (https://kubernetes.io/docs/tasks/tools/install-minikube).
-3. Clone Github repository: `git clone https://github.com/devops787/go-kubernetes.git`
+3. Clone Github repository: `git clone https://github.com/nanom1t/go-kubernetes.git`
 4. Ensure that you have installed kubectl:
 ```
 $ kubectl version
